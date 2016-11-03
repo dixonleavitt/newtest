@@ -1,3 +1,7 @@
 numbers
 
+<<<<<<< HEAD
 abcdefghijkmnop
+=======
+12345678910
+>>>>>>> refs/remotes/origin/master

@@ -1,4 +1,9 @@
 
 alphabet
 
+<<<<<<< HEAD
 12345678910
+=======
+abcdefghijklmnop
+
+>>>>>>> refs/remotes/origin/master
