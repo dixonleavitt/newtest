@@ -1,8 +1,3 @@
-alphabet
-
-<<<<<<< HEAD
+alphabet branch1
 12345678910
-=======
-abcdefghijklmnop
 
->>>>>>> refs/remotes/origin/master
